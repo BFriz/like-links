@@ -12,3 +12,6 @@
 
 ### August 24, 2016
 - [Jamal Crawford’s long and winding road — The Undefeated](http://theundefeated.com/features/jamal-crawford-of-the-clippers-long-and-winding-road/) 
+
+### August 25, 2016
+- [The Long, Remarkable History of the GIF](http://www.popularmechanics.com/technology/a21457/the-gif-is-dead-long-live-the-gif/) 

@@ -15,3 +15,6 @@
 
 ### August 25, 2016
 - [The Long, Remarkable History of the GIF](http://www.popularmechanics.com/technology/a21457/the-gif-is-dead-long-live-the-gif/) 
+
+### August 29, 2016
+- [Big data, Google and the end of free will — FT.com](https://www.ft.com/content/50bb4830-6a4c-11e6-ae5b-a7cc5dd5a28c?siteedition=intl) 

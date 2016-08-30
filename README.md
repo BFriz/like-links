@@ -22,3 +22,6 @@
 - [ericdouglas/ES6-Learning: List of resources to learn ECMAScript 6!](https://github.com/ericdouglas/ES6-Learning) 
 - [ECMAScript 6: Jump in, the water is warm! - Modern Web](http://modernweb.com/2014/04/14/ecmascript-6-jump-in-the-water-is-warm/) 
 - [Fuck the Banks, I'll Build My Own Damn House](http://syntheti.cc/van-build/) 
+
+### August 30, 2016
+- [Fuck the Banks, I'll Build My Own Damn House](http://syntheti.cc/van-build/#end) 

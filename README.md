@@ -29,3 +29,6 @@
 
 ### September 1, 2016
 - [Read Donald Trump’s Speech on Immigration | TIME](http://time.com/4475349/donald-trumps-speech-immigration-transcript/) 
+
+### September 6, 2016
+- [Fluency vs proficiency when teaching/learning programming (and ready-made assignments for your classroom) - GitHub Classroom - GitHub Education Community](https://education.github.community/t/fluency-vs-proficiency-when-teaching-learning-programming-and-ready-made-assignments-for-your-classroom/2479) 

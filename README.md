@@ -32,3 +32,6 @@
 
 ### September 6, 2016
 - [Fluency vs proficiency when teaching/learning programming (and ready-made assignments for your classroom) - GitHub Classroom - GitHub Education Community](https://education.github.community/t/fluency-vs-proficiency-when-teaching-learning-programming-and-ready-made-assignments-for-your-classroom/2479) 
+
+### September 12, 2016
+- [Screencasts for programmers - Roman Zolotarev](https://www.romanzolotarev.com/screencasts/) 

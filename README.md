@@ -35,3 +35,6 @@
 
 ### September 12, 2016
 - [Screencasts for programmers - Roman Zolotarev](https://www.romanzolotarev.com/screencasts/) 
+
+### September 13, 2016
+- [YouTube Creator Blog: YouTube Community goes beyond video](https://youtube-creators.googleblog.com/2016/09/youtube-community-goes-beyond-video.html) 

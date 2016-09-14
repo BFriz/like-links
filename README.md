@@ -38,3 +38,6 @@
 
 ### September 13, 2016
 - [YouTube Creator Blog: YouTube Community goes beyond video](https://youtube-creators.googleblog.com/2016/09/youtube-community-goes-beyond-video.html) 
+
+### September 14, 2016
+- [Git for Teams](http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf) 

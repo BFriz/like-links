@@ -41,3 +41,6 @@
 
 ### September 14, 2016
 - [Git for Teams](http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf) 
+
+### September 16, 2016
+- [John Papa: Understanding ES5, ES2015 and TypeScript](https://johnpapa.net/es5-es2015-typescript/) 

@@ -44,3 +44,6 @@
 
 ### September 16, 2016
 - [John Papa: Understanding ES5, ES2015 and TypeScript](https://johnpapa.net/es5-es2015-typescript/) 
+
+### September 26, 2016
+- [The Generator Project | Inspiring Real-world Connections](http://www.generatorproject.org/) 

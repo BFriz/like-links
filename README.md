@@ -50,3 +50,4 @@
 
 ### September 28, 2016
 - [Microsoft Word - Interactive Techniques.doc](http://www.fctl.ucf.edu/TeachingAndLearningResources/CourseDesign/Assessment/content/101_Tips.pdf) 
+- [Git - Beginner to Advanced Commands and Git Workflows | Atlassian Git Tutorial](https://www.atlassian.com/git/) 

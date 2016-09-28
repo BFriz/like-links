@@ -47,3 +47,6 @@
 
 ### September 26, 2016
 - [The Generator Project | Inspiring Real-world Connections](http://www.generatorproject.org/) 
+
+### September 28, 2016
+- [Microsoft Word - Interactive Techniques.doc](http://www.fctl.ucf.edu/TeachingAndLearningResources/CourseDesign/Assessment/content/101_Tips.pdf) 

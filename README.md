@@ -55,3 +55,4 @@
 ### October 2, 2016
 - [CodeNewbie](http://www.codenewbie.org/learn) 
 - [Beginner’s Guide to Web Development | Code School](https://www.codeschool.com/beginners-guide-to-web-development?utm_medium=email&utm_campaign=announcement_beginners_guide&utm_source=mailchimp&utm_content=null) 
+- [If you want to learn Data Science, start with one of these programming classes](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c#.nrpvwlfsn) 

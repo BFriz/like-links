@@ -61,3 +61,4 @@
 ### October 13, 2016
 - [Beginner’s Guide to Web Development | Code School](https://www.codeschool.com/beginners-guide-to-web-development?utm_medium=email&utm_campaign=announcement_beginners_guide&utm_source=mailchimp&utm_content=null) 
 - [Microsoft Word - Interactive Techniques.doc](http://www.fctl.ucf.edu/TeachingAndLearningResources/CourseDesign/Assessment/content/101_Tips.pdf) 
+- [Drugs and the Meaning of Life: Sam Harris](https://www.samharris.org/podcast/item/drugs-and-the-meaning-of-life) 

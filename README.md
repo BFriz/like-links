@@ -71,3 +71,6 @@
 
 ### October 24, 2016
 - [Move With Us Documentary Trailer on Vimeo](https://vimeo.com/142826542) 
+
+### October 27, 2016
+- [JSbooks - free javascript books](http://jsbooks.revolunet.com/) 

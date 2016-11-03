@@ -79,3 +79,4 @@
 - [What programming language should you learn first?](https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.k5ulaiz80) 
 - [Git & GitHub: Introduction to Git & GitHub - YouTube](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) 
 - [Binary Numbers - Computer Science Unplugged](http://csunplugged.org/binary-numbers/) 
+- [Activities - Computer Science Unplugged](http://csunplugged.org/activities/) 

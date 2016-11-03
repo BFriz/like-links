@@ -74,3 +74,6 @@
 
 ### October 27, 2016
 - [JSbooks - free javascript books](http://jsbooks.revolunet.com/) 
+
+### November 3, 2016
+- [What programming language should you learn first?](https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.k5ulaiz80) 

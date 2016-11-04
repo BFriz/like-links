@@ -80,3 +80,6 @@
 - [Git & GitHub: Introduction to Git & GitHub - YouTube](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) 
 - [Binary Numbers - Computer Science Unplugged](http://csunplugged.org/binary-numbers/) 
 - [Activities - Computer Science Unplugged](http://csunplugged.org/activities/) 
+
+### November 4, 2016
+- [LEEKSPIN DOT COM](http://leekspin.com/) 

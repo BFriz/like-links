@@ -86,3 +86,6 @@
 
 ### November 9, 2016
 - [Neuroscience Says Listening to This Song Reduces Anxiety by Up to 65 Percent | Inc.com](http://www.inc.com/melanie-curtin/neuroscience-says-listening-to-this-one-song-reduces-anxiety-by-up-to-65-percent.html) 
+
+### November 10, 2016
+- [The Best Outdoor Jobs and Careers - on The Outbound Collective](https://www.theoutbound.com/jobs) 

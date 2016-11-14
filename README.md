@@ -89,3 +89,6 @@
 
 ### November 10, 2016
 - [The Best Outdoor Jobs and Careers - on The Outbound Collective](https://www.theoutbound.com/jobs) 
+
+### November 14, 2016
+- [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.8ctivadeu) 

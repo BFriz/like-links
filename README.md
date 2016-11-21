@@ -92,3 +92,6 @@
 
 ### November 14, 2016
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.8ctivadeu) 
+
+### November 21, 2016
+- [threepointone/markdown-in-js: inline markdown for react/jsx](https://github.com/threepointone/markdown-in-js) 

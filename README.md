@@ -95,3 +95,4 @@
 
 ### November 21, 2016
 - [threepointone/markdown-in-js: inline markdown for react/jsx](https://github.com/threepointone/markdown-in-js) 
+- [ShMcK (ShMcK) / Repositories](https://github.com/ShMcK?tab=repositories) 

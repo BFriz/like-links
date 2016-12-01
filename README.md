@@ -96,3 +96,6 @@
 ### November 21, 2016
 - [threepointone/markdown-in-js: inline markdown for react/jsx](https://github.com/threepointone/markdown-in-js) 
 - [ShMcK (ShMcK) / Repositories](https://github.com/ShMcK?tab=repositories) 
+
+### December 1, 2016
+- [Optimization for Nintendo 64 · RetroPie/RetroPie-Setup Wiki](https://github.com/RetroPie/RetroPie-Setup/wiki/Optimization-for-Nintendo-64) 

@@ -99,3 +99,6 @@
 
 ### December 1, 2016
 - [Optimization for Nintendo 64 · RetroPie/RetroPie-Setup Wiki](https://github.com/RetroPie/RetroPie-Setup/wiki/Optimization-for-Nintendo-64) 
+
+### December 7, 2016
+- [komejo/front-end-developer-employer-questions: A list of questions you can ask potential employers, when interviewing for a front-end development position.](https://github.com/komejo/front-end-developer-employer-questions) 

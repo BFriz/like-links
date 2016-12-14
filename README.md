@@ -105,3 +105,6 @@
 
 ### December 12, 2016
 - [Learn Apollo](https://learnapollo.com/) 
+
+### December 14, 2016
+- [ES2015 Crash Course: Babel Setup](https://laracasts.com/series/es6-cliffsnotes/episodes/1) 

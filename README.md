@@ -108,3 +108,4 @@
 
 ### December 14, 2016
 - [ES2015 Crash Course: Babel Setup](https://laracasts.com/series/es6-cliffsnotes/episodes/1) 
+- [ES2015 Crash Course: Babel Setup](https://laracasts.com/series/es6-cliffsnotes/episodes/1) 

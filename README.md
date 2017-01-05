@@ -112,3 +112,4 @@
 
 ### January 4, 2017
 - [What is the best way to learn JavaScript? - Quora](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript) 
+- [NodeSchool](https://nodeschool.io/#workshoppers) 

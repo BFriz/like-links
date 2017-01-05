@@ -109,3 +109,6 @@
 ### December 14, 2016
 - [ES2015 Crash Course: Babel Setup](https://laracasts.com/series/es6-cliffsnotes/episodes/1) 
 - [ES2015 Crash Course: Babel Setup](https://laracasts.com/series/es6-cliffsnotes/episodes/1) 
+
+### January 4, 2017
+- [What is the best way to learn JavaScript? - Quora](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript) 
